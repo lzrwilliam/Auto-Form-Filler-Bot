@@ -4,7 +4,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green?logo=selenium)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-> **Automate any radio- and checkbox-only web form** by feeding your own JSON dataset—fill, submit, repeat.
+> **Automate any google form* by feeding your own JSON dataset—fill, submit, repeat.
 
 ---
 
