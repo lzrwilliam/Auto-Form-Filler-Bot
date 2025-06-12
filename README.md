@@ -124,15 +124,15 @@ Sample console output:
 
 **⚙️ Configuration Tips**
 
-Field Order Matters
+**Field Order Matters**
 
 JSON keys are processed in the order you list them. Mirror your form’s layout for best results.
 
-Exact Label Matching
+**Exact Label Matching**
 
 Copy-and-paste question labels and option texts directly from the form UI to prevent mismatches.
 
-Adjust Delays
+**Adjust Delays**
 
 If you hit speed or timeout errors, tweak the time.sleep(0.4) in click_option_by_text().
 
