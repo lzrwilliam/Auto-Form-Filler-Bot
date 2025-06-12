@@ -1,0 +1,1468 @@
+[
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "18–24 ani",
+    "venit_lunar": "2.501 - 4.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Calitatea materialului",
+      "Etica și sustenabilitatea brandului"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "6.001 - 8.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "25–34 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "25–34 ani",
+    "venit_lunar": "2.501 - 4.000 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Durabilitatea produsului"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "18–24 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele",
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)",
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Calitatea materialului",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Deloc informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să donez, repar sau reutilizez hainele"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "Peste 55 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place",
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Durabilitatea produsului",
+      "Etica și sustenabilitatea brandului"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe",
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "25–34 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Indiferent(ă)",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară",
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "45–54 ani",
+    "venit_lunar": "2.501 - 4.000 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "Peste 55 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Deloc informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Puțin",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe",
+      "Să donez, repar sau reutilizez hainele",
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "Peste 55 ani",
+    "venit_lunar": "6.001 - 8.000 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place",
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)"
+    ],
+    "factori_decizie": [
+      "Durabilitatea produsului",
+      "Etica și sustenabilitatea brandului"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Durabilitatea produsului",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Indiferent(ă)",
+    "influenta_influenceri": "Deloc",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară",
+      "Să donez, repar sau reutilizez hainele",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "25–34 ani",
+    "venit_lunar": "2.501 - 4.000 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Durabilitatea produsului",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Indiferent(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe",
+      "Să cumpăr mai rar, dar produse de calitate superioară",
+      "Să donez, repar sau reutilizez hainele"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Aspectul / designul / trendul",
+      "Durabilitatea produsului"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "O dată la câteva luni",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)",
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)"
+    ],
+    "factori_decizie": [
+      "Durabilitatea produsului",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Deloc",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)",
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)"
+    ],
+    "factori_decizie": [
+      "Calitatea materialului",
+      "Prețul"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "35–44 ani",
+    "venit_lunar": "6.001 - 8.000 lei",
+    "frecventa_haine": "O dată la câteva luni",
+    "buget_anual": "5.001 - 8.000 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Durabilitatea produsului"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Deloc",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Durabilitatea produsului",
+      "Etica și sustenabilitatea brandului"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Puțin",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "Peste 55 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "5.001 - 8.000 lei",
+    "branduri_preferate": [
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)",
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "25–34 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "5.001 - 8.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Calitatea materialului",
+      "Durabilitatea produsului"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară",
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să donez, repar sau reutilizez hainele"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "25–34 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Calitatea materialului",
+      "Durabilitatea produsului"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Deloc",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "2.501 - 4.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place",
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Durabilitatea produsului",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară",
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Deloc",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "6.001 - 8.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "5.001 - 8.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)",
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Puțin",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "Peste 55 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Prețul"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Deloc",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "35–44 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Prețul"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară",
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "25–34 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "O dată la câteva luni",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)",
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Aspectul / designul / trendul",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Deloc informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "35–44 ani",
+    "venit_lunar": "6.001 - 8.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "5.001 - 8.000 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place",
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Calitatea materialului",
+      "Durabilitatea produsului"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Puțin",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe",
+      "Să donez, repar sau reutilizez hainele"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "35–44 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "O dată la câteva luni",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place",
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Calitatea materialului",
+      "Prețul"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Puțin",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară",
+      "Să donez, repar sau reutilizez hainele",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "45–54 ani",
+    "venit_lunar": "2.501 - 4.000 lei",
+    "frecventa_haine": "O dată la câteva luni",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Aspectul / designul / trendul",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage",
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Prețul"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele",
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "45–54 ani",
+    "venit_lunar": "6.001 - 8.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place",
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Indiferent(ă)",
+    "influenta_influenceri": "Puțin",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să cumpăr mai rar, dar produse de calitate superioară",
+      "Să donez, repar sau reutilizez hainele"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "6.001 - 8.000 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Deloc informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "45–54 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)",
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Deloc informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Puțin",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "2.501 - 4.000 lei",
+    "frecventa_haine": "O dată la câteva luni",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage",
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Durabilitatea produsului",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să donez, repar sau reutilizez hainele",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "2.501 - 4.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Aspectul / designul / trendul",
+      "Etica și sustenabilitatea brandului"
+    ],
+    "nivel_informare": "Deloc informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "35–44 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Prețul"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Deloc",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să cumpăr mai rar, dar produse de calitate superioară",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "18–24 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Etica și sustenabilitatea brandului"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Indiferent(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe",
+      "Să donez, repar sau reutilizez hainele"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "25–34 ani",
+    "venit_lunar": "2.501 - 4.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)",
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Etica și sustenabilitatea brandului"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "25–34 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Durabilitatea produsului"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "35–44 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Deloc",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să donez, repar sau reutilizez hainele",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "25–34 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage",
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Durabilitatea produsului",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele",
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "25–34 ani",
+    "venit_lunar": "2.501 - 4.000 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Deloc",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "18–24 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "O dată la câteva luni",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Deloc",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "35–44 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage",
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Indiferent(ă)",
+    "influenta_influenceri": "Puțin",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "25–34 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "2.501 - 5.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Calitatea materialului",
+      "Prețul"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe",
+      "Să cumpăr mai rar, dar produse de calitate superioară",
+      "Să donez, repar sau reutilizez hainele"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "25–34 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)",
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Calitatea materialului",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Deloc informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Indiferent(ă)",
+    "influenta_influenceri": "Deloc",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "25–34 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)",
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Vinovat(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "O dată la câteva luni",
+    "buget_anual": "5.001 - 8.000 lei",
+    "branduri_preferate": [
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)",
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Durabilitatea produsului"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele",
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "Peste 55 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage",
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Durabilitatea produsului",
+      "Etica și sustenabilitatea brandului"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe",
+      "Să nu schimb nimic în obiceiurile actuale"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "6.001 - 8.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Etica și sustenabilitatea brandului"
+    ],
+    "nivel_informare": "Foarte bine informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Indiferent(ă)",
+    "influenta_influenceri": "Puțin",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe",
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să donez, repar sau reutilizez hainele"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "18–24 ani",
+    "venit_lunar": "6.001 - 8.000 lei",
+    "frecventa_haine": "Doar când este necesar",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)",
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Durabilitatea produsului"
+    ],
+    "nivel_informare": "Deloc informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Puțin",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe",
+      "Să donez, repar sau reutilizez hainele",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "Peste 55 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "O dată la câteva luni",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Prețul"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "18–24 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Aspectul / designul / trendul",
+      "Prețul"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Rar cumpăr impulsiv",
+    "influenta_influenceri": "Foarte mult",
+    "actiuni_sustenabilitate": [
+      "Să donez, repar sau reutilizez hainele"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "45–54 ani",
+    "venit_lunar": "Sub 2.500 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)"
+    ],
+    "factori_decizie": [
+      "Aspectul / designul / trendul",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "Peste 55 ani",
+    "venit_lunar": "6.001 - 8.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "Peste 8.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)",
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)"
+    ],
+    "factori_decizie": [
+      "Aspectul / designul / trendul",
+      "Etica și sustenabilitatea brandului"
+    ],
+    "nivel_informare": "Deloc informat(ă)",
+    "auzit_slow_fashion": "Am auzit de ele, dar nu știu exact ce înseamnă",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Deloc",
+    "actiuni_sustenabilitate": [
+      "Să nu schimb nimic în obiceiurile actuale",
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Masculin",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)",
+      "Haine second-hand / vintage"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Calitatea materialului"
+    ],
+    "nivel_informare": "Moderat informat(ă)",
+    "auzit_slow_fashion": "Da, și le cunosc semnificația",
+    "daca_etica": "Plătiți mai mult pentru un produs etic",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Puțin",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "2.501 - 4.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "1.000 - 2.500 lei",
+    "branduri_preferate": [
+      "Haine second-hand / vintage",
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Prețul",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Deloc informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Îl cumpărați oricum, dacă prețul este bun",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Puțin",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Ofertele și reducerile aplicate la brandurile slow fashion"
+  },
+  {
+    "gen": "Altul / prefer să nu răspund",
+    "varsta": "Sub 18 ani",
+    "venit_lunar": "Peste 8.000 lei",
+    "frecventa_haine": "O dată pe săptămână",
+    "buget_anual": "Sub 1.000 lei",
+    "branduri_preferate": [
+      "Branduri fast fashion (Zara, H&M, Shein, Bershka etc.)",
+      "Branduri slow fashion (Patagonia, MUD Jeans, Reformation etc.)"
+    ],
+    "factori_decizie": [
+      "Etica și sustenabilitatea brandului",
+      "Aspectul / designul / trendul"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Nu contează acest aspect în alegerea dumneavoastră",
+    "impuls": "Entuziasmat(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Mai multă informare despre impactul modei"
+  },
+  {
+    "gen": "Feminin",
+    "varsta": "35–44 ani",
+    "venit_lunar": "4.001 - 6.000 lei",
+    "frecventa_haine": "O dată pe lună",
+    "buget_anual": "5.001 - 8.000 lei",
+    "branduri_preferate": [
+      "Nu țin cont de brand, cumpăr ce îmi place"
+    ],
+    "factori_decizie": [
+      "Calitatea materialului",
+      "Durabilitatea produsului"
+    ],
+    "nivel_informare": "Puțin informat(ă)",
+    "auzit_slow_fashion": "Nu, nu am auzit",
+    "daca_etica": "Nu îl mai cumpărați",
+    "impuls": "Indiferent(ă)",
+    "influenta_influenceri": "Moderat",
+    "actiuni_sustenabilitate": [
+      "Să aleg branduri etice, chiar dacă sunt mai scumpe",
+      "Să donez, repar sau reutilizez hainele",
+      "Să cumpăr mai rar, dar produse de calitate superioară"
+    ],
+    "convingere_sustenabilitate": "Disponibilitatea crescută în magazine sau online"
+  }
+]
