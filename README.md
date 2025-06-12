@@ -82,6 +82,8 @@ Each object in `responses.json` corresponds to one full submission:
 2. **Install dependencies**
 ```bash
 pip install selenium
+
+Make sure also to have the latest version of Chrome.
 ```
 3. Prepare your data
 
